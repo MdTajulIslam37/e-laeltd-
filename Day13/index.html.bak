@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Day 13</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<!-- 
+amar name md tajul islam & nothing else. here...wow i can write code without watching keyboard, thats nice,,, i am emprassed ti watching my work or progress
+-->
+	<h1 style="background-color:Tomato;">Tomato</h1>
+<h1 style="background-color:Orange;">Orange</h1>
+<h1 style="background-color:DodgerBlue;">DodgerBlue</h1>
+<h1 style="background-color:MediumSeaGreen;">MediumSeaGreen</h1>
+<h1 style="background-color:Gray;">Gray</h1>
+<h1 style="background-color:SlateBlue;">SlateBlue</h1>
+<h1 style="background-color:Violet;">Violet</h1>
+<h1 style="background-color:LightGray;">LightGray</h1>
+<h1 style="background-color:gold;">Gold</h1>
+<h1 style="background-color:lawngreen;">lawn Green</h1>
+<h1 style="background-color:PaleTurquoise;">PaleTurquoise</h1>
+</body>
+</html>

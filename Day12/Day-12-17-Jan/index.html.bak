@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+<head> 
+<title>E-Commerce Website</title> 
+<style>
+.category{width: 100%; float: left; text-align:center;}
+.product{width: 24%; float: left; border: 1px solid; padding: 10px:margin-left:20PX;}
+.product img { width:100%; }
+</style>
+</head>
+
+<body>
+
+<div class="category">
+<h2>Desktop</h2>
+	<div class="product">
+		<h4>Core i5 10 gen</h4>
+		<h3>price $ 400</h3>
+		<img src="img/desktop/desktop1.jpg">
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="product">
+		<h4>Core i7 8 gen</h4>
+		<h3>price $ 550</h3>
+		<img src="img/desktop/desktop1.jpg">
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="product">
+		<h4>Product Name</h4>
+		<h3>price $ 400</h3>
+		<img src="img/desktop/desktop1.jpg">
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+
+<div class="category">
+<h2>Laptop</h2>
+	<div class="product">
+		<h4>Product Name</h4>
+		<h3>price $ 400</h3>
+		<img src="img/desktop/desktop1.jpg">
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="product">
+		<h4>Product Name</h4>
+		<h3>price $ 400</h3>
+		<img src="img/desktop/desktop1.jpg">
+		<input type="button" value="Buy Now">
+	</div>
+	<div class="product">
+		<h4>Product Name</h4>
+		<h3>price $ 400</h3>
+		<img src="img/desktop/desktop1.jpg">
+		<input type="button" value="Buy Now">
+	</div>
+</div>
+
+</body>
+
+</html>

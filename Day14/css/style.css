@@ -1,0 +1,21 @@
+.menu{
+    width: 100%;
+}
+.menu ul{
+    display: flex;
+    float: left;
+    list-style: none;
+}
+.menu ul li a{
+	color:black;
+	text-decoration:none;
+	font-size:20px;
+    padding:10px 50px 10px 50px;
+	font-weight:blod;
+	text-transform:uppercase;
+    background-color: aqua;
+}
+ul li a:hover{
+    background-color: aquamarine;
+}
+

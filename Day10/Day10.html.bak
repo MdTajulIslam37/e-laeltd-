@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Day10</title>
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+<div id="heding">
+	<h1>Protfolio Webside</h1>
+</div>
+</br>
+<div>
+	<div id="left-side">
+		<h4 id="name">Md Tajul Islam</h4>
+		<h4 id="name">Mahmud Ali</h4>
+		<h4 id="name">Hafizur Rahman</h4>
+		<h4 id="name">Md Simul Hossan</h4>
+	</div>
+	<div id="right-side">
+		<img src="C:\Users\e-laeltd\Desktop\Tajul\Day10\resourse/head-img.jpg" type="image/jpg" height="200px" width="200px" style="margin-top:10px;">
+		<h1><b>Md Tajul Islam</b></h1>
+		<h4 style="text-align:left; margin-left:5px; margin-bottom:-5px;">About:</h4>
+		<p style="text-align:left; margin-left:5px;">I don't need any discribtion. Because i'm a brand. </p>
+		<h3>Skills:</h3>
+		<table style="padding:10px; margin:5px; margin-top:-10px;">
+			<tr>
+				<th>HTML</th>
+				<th>CSS</th> 
+				<th>JAVA</th>
+				<th>ANDROID</th>
+				<th>PROGRAMMING</th>
+			</tr>
+			<tr>
+				<td>I can make full website structure using html</td>
+				<td>I can customize website using css</td> 
+				<td>I know java programmimg pretty well. i developed morse code making program.</td>
+				<td>I developed two android application using android studio. I'm able to develop a android application.</td>
+				<td>I love to do programming. problem solving, algorithm develop, debuging etc.</td>
+			</tr>
+		</table>
+		<h3>My work or Portfolio:</h3>
+		<div width="70%">
+			<img src="C:\Users\e-laeltd\Desktop\Tajul\Day10\resourse/img1.png" type="image/png" height="200px" width="250px" style="float:left; border:1px solid gray;">
+			<img src="C:\Users\e-laeltd\Desktop\Tajul\Day10\resourse/img2.png" type="image/png" height="200px" width="250px" style="float:center; border:1px solid gray;">
+			<img src="C:\Users\e-laeltd\Desktop\Tajul\Day10\resourse/img3.png" type="image/png" height="200px" width="250px" style="float:right; border:1px solid gray;">
+		</div>
+		<h2 style="float:left;">Contact Form:</h2></br></br>
+		<form action="/action_page.php">
+			<label for="fname">First name:</label><br>
+			<input type="text" id="fname" name="fname" value="Md Tajul"><br>
+			<label for="lname">Last name:</label><br>
+			<input type="text" id="lname" name="lname" value="Islam"><br><br>
+			<label for="email">Email:</label><br>
+			<input type="text" id="email" name="email"><br><br>
+			<label for="email">Phone:</label><br>
+			<input type="number" id="email" name="email"><br><br>
+			<input type="submit" value="Submit">
+		</form>
+	</div>
+</div>
+<div id="footer">
+	<h2> copyright@ sheakh@2022</h2>
+  facebook | Youtube | Linkdin+
+</div>
+
+
+</body>
+</html>

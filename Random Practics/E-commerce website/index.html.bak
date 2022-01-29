@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Digital shop </title>
+<link rel="stylesheet" href="Css\style.css">
+</head>
+<body>
+	<div class="headerr">
+		<div class="menu">
+			<ul>
+				<img src="resourse/logo.png" height="100px" width="100px" href="index.html">
+				<li><a href="#">Home</a></li>
+				<li><a href="#">Phones</a></li>
+				<li><a href="#">Computers</a></li>
+				<li><a href="#">Gedgets</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</div>
+	</div></br>
+	<div class="phones_div" >
+		<h1 style="border-bottom:1px solid black;">Phones</h1>
+		<div>
+			<img src="resourse/iphone12.jpg" height="" width="20%">
+			<h4 style="text-align:center;">New iphone 12</h4>
+			<h2 style="text-align:center;">Tk. 100K</h2>
+		</div>
+	</div>
+</body>
+</html>

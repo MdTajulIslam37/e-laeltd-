@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>cryptography</title>
+<style>
+	body{
+		background-color:#cffce9;
+	}
+	#menu{
+		height:25px;
+		width:100%;
+		background-color:#83fcc8;
+		padding:2px;
+		text-align:center;
+	}
+	#menu_item{
+		padding:2px;
+		margin-right:25px;
+	}
+	#body_content{
+	margin-bottom:100+px;
+	}
+	#left_bar{
+		float:left;
+		width:29%;
+		background-color:#83fcc8;
+		margin-right:1%;
+		}
+	#content{
+		float:right;
+		width:70%;
+		background-color:#83fcc8;
+		margin-bottom:25px;
+	}
+	#footer{
+		background-color:#83fcc8;
+		margin-top:20px;
+	}
+</style>
+</head>
+<body>
+<div >
+	<img src="C:\Users\e-laeltd\Desktop\Tajul\Day9\exam\resourse/header_image.png" alt="Heder imege won't work" height="100px" id="headers" style=" display: block; margin-left: auto; margin-right: auto; ">
+</div>
+<div id="menu">
+	<a href=""  id="menu_item">Home</a>
+	<a href="" id="menu_item">Blog</a>
+	<a href="" id="menu_item">About Us</a>
+	<a href="" id="menu_item">Contact</a>
+</div></br>
+<div id="body_content">
+	<div id="left_bar">
+		<h1>Hello World</h1>
+	</div>
+	<div id="content">
+		<h1>Hellow World</h1>
+	</div>
+</div>
+<div id="footer">
+	<h3>Cryptography:</h3>
+	<p>What is cryptography? everybody doesn't know about this. But it can be most important thing in the world.</p>
+</div>
+
+</body>
+</html>

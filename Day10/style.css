@@ -1,0 +1,35 @@
+body{
+	background-color:#cffce9;
+}
+table, tr, th, td{
+	border: 1px solid black;
+	border-spacing: 0px;
+	border-collapse:collapse;
+	}
+#heding{
+	text-align:center;
+	height:50px;
+	width:100%;
+	background-color:#83fcc8;
+	margin-top:-15px;
+}
+#left-side{
+	width:27%;
+	float:left;
+	background-color:#83fcc8;
+	text-align:center;
+	padding:5px;
+}
+#name{
+	background-color:#cffce9;
+	margin:2px;
+	padding:5px;
+	margin-top:10px;
+}
+#right-side{
+	width:70%;
+	float:right;
+	background-color:#83fcc8;
+	text-align:center;
+	padding;10px;
+}

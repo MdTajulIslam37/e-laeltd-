@@ -1,0 +1,3 @@
+#DAY : HTML CSS
+here have three types of css: 1) In-line css  2) Internal Css  3) External css
+*Internal css: internal css always stay on head tag. and all css stay on a "style tag". 

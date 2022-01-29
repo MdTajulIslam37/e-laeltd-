@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Day 11</title>
+<link href="style.css" rel="stylesheet">
+</head>
+<body>
+	<p>Here is a pragraph.</p>
+	<p>Here is anather pragraph.</p>
+	<h1 id="head1">Here is a Heading</h1>
+	<h1 class="head1">here is anather heading tag</h1>
+	<h1>here is last heading tag</h1>
+
+</body>
+</html>
