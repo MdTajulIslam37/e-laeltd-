@@ -1,0 +1,82 @@
+body{
+	font-family: arial;
+  /* background-color: #faf5f5; */
+}
+.logo{
+    text-align:center;
+}
+#navbar{
+    height: 65px;
+    background: #063247;
+    box-shadow: 0 3px 15px rgba(0,0,0,.4);
+    /* margin-top: 30px;  */
+    text-align: center;
+  }
+  #navbar ul{
+    float: left;
+    margin-right: 30px; 
+  }
+  #navbar ul li{
+    display: inline-block;
+    text-decoration: none;
+  }
+  #navbar ul li a{
+    color: white;
+    display: block;
+    padding: 15px;
+    line-height:0 70px;
+    font-size:14px;
+    /* background: #063247; */
+    transition: .5s;
+    text-decoration: none;
+    font-size: 16px;
+    
+  }
+  
+  /* #navbar ul li a:hover{ */
+  /* #navbar ul li a.active{ */
+    /* color: #23dbdb; */
+    /* border-bottom: 2px solid #23dbdb; */
+    
+  /* } */
+  #navbar ul li a:hover{
+      color: aqua;
+      border-bottom: 1px solid aqua;
+  }
+  #navbar ul ul{
+    position: absolute;
+    /* border-top: 3px solid #23dbdb; */
+    opacity: 0;
+    visibility: hidden;
+  }
+  #navbar ul li:hover > ul{
+    top: 50px;
+    opacity:1;
+    visibility: visible;
+    transition: .3s linear;
+    border-radius: 5px;
+  }
+  #navbar ul ul li{
+    width: 110px;
+    display: list-item;
+    position: relative;
+    border-top: none;
+    list-style: none;
+    margin-top: 80px;
+  }
+  #navbar ul ul li a{
+    line-height: 10px;
+    background-color: #063247;
+     
+  }
+  #navbar ul ul ul{
+    border-top: none;
+  }
+  #navbar ul ul ul li{
+    position: relative;
+    top: -70px;
+    left: 150px;
+  }
+  #navbar ul ul li a i{
+    margin-left: 45px;
+  }
